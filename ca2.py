@@ -6,7 +6,6 @@ import seaborn as sns
 import matplotlib
 # Load Excel data
 df = pd.read_excel("C:/Users/Sachin/Downloads/dashbordchatgpt.xlsx")
-
 # Display the first few rows
 print(df.head())
 # Show general info about columns and data types
