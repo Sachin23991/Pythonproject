@@ -19,7 +19,6 @@ print(df.nunique())
 print("\nSummary statistics of numeric columns:")
 print(df.describe())
 
-
 # Replace spaces with underscores and remove parentheses for consistency
 df.columns = df.columns.str.strip().str.replace(" ", "_").str.replace("(", "").str.replace(")", "")
 
