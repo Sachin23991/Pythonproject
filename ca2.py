@@ -57,7 +57,6 @@ df.isnull().sum()
 
 
 
-
 # Counting unique values
 print("\nUnique values in categorical columns:\n")
 for col in df.select_dtypes(include='object').columns:
