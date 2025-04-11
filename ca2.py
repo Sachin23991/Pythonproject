@@ -39,7 +39,6 @@ df.info()
 
 
 
-
 # Check for missing values in all columns
 missing_values = df.isnull().sum()
 
