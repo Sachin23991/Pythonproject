@@ -14,7 +14,6 @@ df.info()
 # Show number of unique values in each column
 print("\nUnique values per column:")
 print(df.nunique())
-
 # Summary statistics
 print("\nSummary statistics of numeric columns:")
 print(df.describe())
