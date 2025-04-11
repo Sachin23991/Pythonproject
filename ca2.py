@@ -24,8 +24,6 @@ df.columns = df.columns.str.strip().str.replace(" ", "_").str.replace("(", "").s
 
 # Show cleaned column info
 df.info()
-
-
 # Rename key columns for simplicity
 #  Rename key columns for simplicity 
 df.rename(columns={
