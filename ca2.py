@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
 import matplotlib
-
 # Load Excel data
 df = pd.read_excel("C:/Users/Sachin/Downloads/dashbordchatgpt.xlsx")
 
