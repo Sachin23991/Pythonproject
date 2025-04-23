@@ -1,5 +1,5 @@
 # Pythonproject
-1. Introduction
+1. Introduction 
 In recent years, climate change and environmental sustainability have become global priorities. As part of this transformation, electric vehicles (EVs) have emerged as a cleaner and more sustainable alternative to traditional fossil fuel-based transportation. To accelerate the adoption of EVs, various governments and organizations have introduced incentive programs that make EVs more financially accessible to consumers. One such program is the Drive Clean Rebate initiative launched by the New York State Energy Research and Development Authority (NYSERDA).
 1.1 Overview of the Dataset
 The dataset used in this project is a detailed record of electric vehicle rebate claims under NYSERDA’s Drive Clean Rebate Program. It includes information on individual rebate transactions made available to the public to promote transparency and allow data-driven decision-making. The dataset begins from 2017 and is regularly updated, making it a rich source of information for analyzing EV trends in New York State.
