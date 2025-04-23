@@ -1,4 +1,4 @@
-# Pythonproject
+# Pythonproject 
 1. Introduction
 In recent years, climate change and environmental sustainability have become global priorities. As part of this transformation, electric vehicles (EVs) have emerged as a cleaner and more sustainable alternative to traditional fossil fuel-based transportation. To accelerate the adoption of EVs, various governments and organizations have introduced incentive programs that make EVs more financially accessible to consumers. One such program is the Drive Clean Rebate initiative launched by the New York State Energy Research and Development Authority (NYSERDA).
 1.1 Overview of the Dataset
