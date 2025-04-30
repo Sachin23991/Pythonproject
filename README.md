@@ -544,4 +544,4 @@ Overall, the NYSERDA rebate dataset has significant long-term analytical value. 
 [7] IEEE, “IEEE Reference Style Guide for Authors.” [Online]. Available: https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf. 
 
 
-Project about a dataset
+Project about a dataset 
